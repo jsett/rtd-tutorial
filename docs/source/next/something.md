@@ -6,9 +6,11 @@ Hallo world!
 An admonition note!
 ```
 
+```
 :::{tip}
 Let's give readers a helpful hint!
 :::
+```
 
 [Link to the heading](#heading-1)
 
