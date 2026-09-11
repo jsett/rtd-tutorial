@@ -1,3 +1,12 @@
+# testing some more stuff.
+
+totally not going to work.
+
+# saving some old stuff here.
+
+`index.rst`
+
+```
 Welcome to Lumache's documentation!
 ===================================
 
@@ -21,3 +30,4 @@ Contents
    :glob:
 
    *
+```

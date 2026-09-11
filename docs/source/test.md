@@ -7,6 +7,13 @@ for x in range(0,100):
     time.sleep(1)
 ```
 
+```
+.. toctree::
+
+   usage
+   test
+   api
+```
 
 :::{admonition} Here's my title
 :class: tip
