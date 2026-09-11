@@ -15,6 +15,15 @@ for x in range(0,100):
    api
 ```
 
+```{code-block} python
+:lineno-start: 10
+:emphasize-lines: 1, 3
+
+a = 2
+print('my 1st line')
+print(f'my {a}nd line')
+```
+
 :::{admonition} Here's my title
 :class: tip
 
