@@ -24,13 +24,18 @@ print('my 1st line')
 print(f'my {a}nd line')
 ```
 
+```{admonition} Here's my title
+:class: tip
+
+Here's my admonition content.{sup}`1`
 ```
+
 :::{admonition} Here's my title
 :class: tip
 
 Here's my admonition content.{sup}`1`
 :::
-```
+
 
 (header-label)=
 # A header

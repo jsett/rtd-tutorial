@@ -6,13 +6,15 @@ Hallo world!
 An admonition note!
 ```
 
+```{tip}
+Let's give readers a helpful hint!
 ```
+
 :::{tip}
 Let's give readers a helpful hint!
 :::
-```
 
-[Link to the heading](#heading-1)
+[Link to the code](##Math)
 
 ## Code
 
