@@ -7,6 +7,22 @@ for x in range(0,100):
     time.sleep(1)
 ```
 
+
+:::{admonition} Here's my title
+:class: tip
+
+Here's my admonition content.{sup}`1`
+:::
+
+(header-label)=
+# A header
+
+[My reference](#header-label)
+
+# what is this
+
+dont know what is is.
+
 # first
 
 ```{mermaid}

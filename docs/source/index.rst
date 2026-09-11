@@ -17,7 +17,7 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :glob:
 
-   usage
-   test
-   api
+   *
